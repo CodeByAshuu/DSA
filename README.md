@@ -1,2 +1,2 @@
 # DSA
-This repo is for DSA's Problem solving.
+DSA Problem solving with C++ Programming.
